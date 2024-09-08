@@ -1,4 +1,4 @@
 # myDemo
 My first Repository.
-<dr>
-i am about to create many more!
+<br>
+I am about to create many more!
